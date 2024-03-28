@@ -1,0 +1,25 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 55px;
+    justify-content: center;
+}
+
+.circle {
+        border-radius: 100%;
+    }
+
+.table-user {
+    background-color: white;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.table-user th, .table_user td {
+    border: 1px solidd black;
+    padding: 8px;
+    text-align: center;
+}
